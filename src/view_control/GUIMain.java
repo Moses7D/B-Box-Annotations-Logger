@@ -1031,7 +1031,7 @@ public class GUIMain extends JFrame {
 
     private BufferedImage getWindowIcon() {
         try {
-            return ImageIO.read(new File("src/data/images/icon.jpg"));
+            return ImageIO.read(new File("data/images/icon.jpg"));
         } catch (IOException ex) {
             ex.printStackTrace();
         }
