@@ -1,0 +1,3 @@
+# B-Box-Annotations-Logger
+
+This is a project management program for machine learning projects. To it's full extend can be used to create annotations for data (e.g. bounding boxes), manage dataset classes and data, inspect logs and create new distilled log files. The development of this project is in very early stages and it can be considered abandoned, since the project that created the need for this tool has moved to other stages of development. For now this tool can be used to inspect and distill logs created by the Darknet YOLO project, and I hope that in the future I will be able to continue it's development.
